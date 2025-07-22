@@ -54,17 +54,14 @@ The analysis combines structured and unstructured datasets, statistical modeling
 
 👉 **[View Interactive Dashboard](https://us-east-1.online.tableau.com/t/pshrest6-742e148f0f/views/Customerinsightsdashboard/Dashboard1)**
 
-> Explore customer sentiment by department, sales distribution, top SKUs, and forecast visualizations.
-
-![Dashboard Preview](visuals/fashion_dashboard_preview.png)
 
 ---
 
-## 📈 Example Visuals
-> *(Add screenshots into `/visuals/` folder and reference them below)*
+## 📈 Visuals
 
-- ![Sentiment Scores](visual/sentiments_score.png)
-- ![Sentiment Distribution](visual/sentiment_histogram.png)
+
+- ![Sentiment Scores](visual/Sentiments_score.png)
+- ![Sentiment Distribution](visual/Sentiment_histogram.png)
 - ![Top Reviewed Products](visual/top_reviewed_products.png)
 - ![SKU Clustering](visual/sku_clusters.png)
 - ![Forecast Plot](visual/prophet_forecast.png)
