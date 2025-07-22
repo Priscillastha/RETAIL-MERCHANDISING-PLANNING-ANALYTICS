@@ -65,13 +65,10 @@ The analysis combines structured and unstructured datasets, statistical modeling
 - ![Top Reviewed Products](visual/top_reviewed_products.png)
 - ![SKU Clustering](visual/sku_clusters.png)
 - ![Forecast Plot](visual/prophet_forecast.png)
-- ![Customer Insights Dashboard](visual/dashboard_1.png)
-- ![Customer Dashboard](visual/Tableau%20dashboard%202)
+- ![Tableau_dashboard_1](visual/dashboard_1.png)
+- ![Tableau_dashboard_2](visual/Tableau%20dashboard%202)
 - 
 ---
-https://github.com/Priscillastha/RETAIL-MERCHANDISING-PLANNING-ANALYTICS/blob/main/visual/top_reviewed_products.png
-https://github.com/Priscillastha/RETAIL-MERCHANDISING-PLANNING-ANALYTICS/blob/main/visual/Tableau%20dashboard%202.png
-
 ## 💡 Business Impact Summary
 
 | Use Case | Insight | Action |
