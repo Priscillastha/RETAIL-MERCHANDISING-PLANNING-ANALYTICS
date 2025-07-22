@@ -60,8 +60,8 @@ The analysis combines structured and unstructured datasets, statistical modeling
 ## 📈 Visuals
 
 
-- ![Sentiment Scores](visual/Sentiments_score.png)
-- ![Sentiment Distribution](visual/Sentiment_histogram.png)
+- ![Sentiment score](visual/Sentiments_score.png)
+- ![Sentiment histogram](visual/Sentiment_histogram.png)
 - ![Top Reviewed Products](visual/top_reviewed_products.png)
 - ![SKU Clustering](visual/sku_clusters.png)
 - ![Forecast Plot](visual/prophet_forecast.png)
