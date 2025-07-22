@@ -65,7 +65,7 @@ The analysis combines structured and unstructured datasets, statistical modeling
 - ![Top Reviewed Products](visual/top_reviewed_products.png)
 - ![SKU Clustering](visual/sku_clusters.png)
 - ![Forecast Plot](visual/prophet_forecast.png)
-- ![Customer Dashboard](visual/Tableau_dashboard_1.png)
+- ![Customer Insights Dashboard](visual/dashboard_1.png)
 - ![Customer Dashboard](visual/Tableau%20dashboard%202)
 - 
 ---
